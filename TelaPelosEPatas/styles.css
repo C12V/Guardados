@@ -1,0 +1,16 @@
+header {
+    width: 1512 px;
+    height: 119px;
+    padding: 20px;
+    background-color: #FBF4E3;
+}
+
+.logo img{
+    width: 79px;
+    height: 79px;
+}
+
+.TituloHeader{
+    font-size: 50px;
+    color: #09A6A3;
+}
